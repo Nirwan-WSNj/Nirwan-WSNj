@@ -1,21 +1,24 @@
-# 👋 Hi there, I'm Sandesh Malindu Nirwan (Nirwan-WSNj) 
+# 👋 Hi there, I'm Sandesh Malindu Nirwan (Nirwan-WSNj)
 
 🎓 **HNDIT Student** at SLIATE – Gampaha  
-💻 **Web Developer** working with Java, PHP, JavaScript, and MySQL  
+💻 **Web Developer** experienced in Java, PHP, JavaScript, and MySQL  
 🧠 Passionate about **AI** and exploring **Cybersecurity**  
 🌍 Based in Gampaha, Sri Lanka  
-📧 Reach me at: weronsandesh0609@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sandesh-nirwan-382184204)
+📧 Reach me at: [weronsandesh0609@gmail.com](mailto:weronsandesh0609@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sandesh-nirwan-382184204)
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🎓 [Student_Result_Management_System](https://github.com/Nirwan-WSNj/Student_Result_Management_System)
-> A Java-based Student Result Management System with MySQL integration for streamlined academic data handling.
+> A Java-based Student Result Management System with MySQL integration for efficient and streamlined academic data management.
 
 #### 🌐 [myfirstnextjsapp](https://github.com/Nirwan-WSNj/myfirstnextjsapp)
-> My first steps into React and Next.js — clean UI, component design, and routing for web experiences.
+> A beginner-level project built with React and Next.js, focused on clean UI design, component-based architecture, and client-side routing.
+
+#### 🧭 [Travel-Idea-Website](https://github.com/Nirwan-WSNj/Travel-Idea-Website)
+> A website for sharing inspiring travel destinations and itineraries, built using HTML, CSS, and JavaScript.
 
 ---
 
@@ -26,6 +29,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
