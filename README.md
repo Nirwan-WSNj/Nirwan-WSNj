@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sandesh Malindu Nirwan (Nirwan-WSNj) — he/him
+# 👋 Hi there, I'm Sandesh Malindu Nirwan (Nirwan-WSNj) 
 
 🎓 **HNDIT Student** at SLIATE – Gampaha  
 💻 **Web Developer** working with Java, PHP, JavaScript, and MySQL  
